@@ -1,4 +1,4 @@
-### Hi there <a href="ravigangawane.github.io/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
+### Hi there <a href="ravigangawane.github.io/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="2%"></a>
 
 **ravi-d-g/ravi-d-g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,26 +14,11 @@
 
 🔗  **Connect with me**
 <p align="left">
-<a href="https://dev.to/gautamkrishnar" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="gautamkrishnar" height="30" width="40" />
-</a>
-<a href="https://twitter.com/gautamkrishnar" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gautamkrishnar" height="30" width="40" />
-</a>
-<a href="https://www.linkedin.com/in/ravi-d-gangawane/" target="blank">
-<img align="center" src="https://ravigangawane.github.io/v-1.0.0/images/icons/social/linkedin.svg" height="30" width="40" />
-</a>
-<a href="mailto:ravi.d.gangawane@gmail.com" target="blank">
-<img align="center" src="https://ravigangawane.github.io/v-1.0.0/images/icons/social/gmail.svg" height="30" width="40" />
-</a>
-<a href="https://instagram.com/gautamkrishnar" target="blank">
-<img align="center" src="https://ravigangawane.github.io/v-1.0.0/images/icons/social/instagram.svg"   height="30" width="40" />
-</a>
-
-## Contact Information
-
-- **Email:** [ravi.d.gangawane@gmail.com]()
-- **LinkedIn:** [linkedin.com/in/ravi-d-gangawane]()
+<a href="https://dev.to/gautamkrishnar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="gautamkrishnar" height="30" width="40" /></a>
+<a href="https://twitter.com/gautamkrishnar" target="blank"><img align="center" src="https://ravigangawane.github.io/v-1.0.0/images/icons/Social/twitter.svg" alt="gautamkrishnar" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ravi-d-gangawane/" target="blank"><img align="center" src="https://ravigangawane.github.io/v-1.0.0/images/icons/Social/linked-in.svg" height="30" width="40" /></a>
+<a href="mailto:ravi.d.gangawane@gmail.com" target="blank"><img align="center" src="https://ravigangawane.github.io/v-1.0.0/images/icons/Social/gmail.svg" height="30" width="40" /></a>
+<a href="https://instagram.com/gautamkrishnar" target="blank"><img align="center" src="https://ravigangawane.github.io/v-1.0.0/images/icons/Social/instagram.svg"   height="30" width="40" /></a>
   
 ### ✨  About Me
 
